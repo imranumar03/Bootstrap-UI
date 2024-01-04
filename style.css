@@ -1,0 +1,33 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    background-image: linear-gradient(to bottom right, #00F490, #00BBC9);
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+
+}
+
+.jumbotron {
+    background-color: rgba(250, 235, 215, 0);
+}
+
+.lead {
+    color: white;
+    font-size: 2.23rem;
+}
+
+.btn-outline-light {
+    border-color: white;
+}
+
+.btn-outline-light:hover{
+  background-color: rgba(255, 255, 255, 0.267);
+}
+
+.btn-primary, .btn-primary:hover {
+    background-color: #00BBC9;
+    border-color: #00BBC9;
+}
